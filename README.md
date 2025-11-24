@@ -1,2 +1,2 @@
-# Maa-Sita-Medical-foundation-Hospital
-Maa Sita Medical foundation Hospital
+# Charity-Jet--Donation-Website
+Charity Jet is a Donation Website with integrated payment gateway using Razorpay. 
